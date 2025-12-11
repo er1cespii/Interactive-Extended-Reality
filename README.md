@@ -1,2 +1,6 @@
-# Interactive-Extended-Reality
-Seatwork 1.1 Creating and Customizing your Github Profile 
+***CPE 411-CPE22S4 - Interactive Extended Reality***
+
+'''
+
+Interactive Extended Reality
+'''
