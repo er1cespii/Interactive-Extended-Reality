@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric Joshua Espinosa</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25A3FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Eric+Joshua+Espinosa" alt="Typing SVG" /></a>
 
 ###
 
@@ -77,11 +77,21 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=About%20Me&fontSize=30&fontColor=F0F0F0&fontAlign=10&fontAlignY=71&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=About%20Me&fontSize=30&fontColor=F0F0F0&fontAlign=8.5&fontAlignY=71&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
 
 <h6 align="left">Name: Eric Joshua P. Espinosa<br><br>Location: Metro Manila, Philippines <br><br>Video Editor & Graphic Designer<br><br>Experience: 3 years in transforming ideas into compelling visuals<br><br>I’m currently working and owner on Creatosaprks<br><br>Specialization: Creative media solutions for brands & individuals<br><br>Current Focus: Building a digital agency that elevates brands<br><br>Education: BSCPE Student<br><br>Leadership: P.R.O. of TIPQC CPE Department Student Council<br><br>Freelancer: Open to collaborations & projects<br><br>Feel free to explore my repositories and reach out for collaboration!</h6>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=Skils&fontSize=30&fontColor=F0F0F0&fontAlign=4&fontAlignY=71&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
+<h6 align="left">Video Editing<br>UI/UX Design<br>Photography<br>Videography <br>Programming<br>Graphic Design<br>Music Producing <br>3d Design</h6>
 
 ###
