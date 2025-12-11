@@ -79,4 +79,7 @@ Fork on Github
 
 <div align="center">
   <img src="https://hits.sh/github.com/er1cespii/er1cespii/views.svg?view=total" alt="Profile Views" />
+  <p align="center">
+    ![Profile Views](https://img.shields.io/badge/Profile%20Views-Total-brightgreen)
+  </p>
 </div>
