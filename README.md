@@ -77,7 +77,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=About%20Me&fontSize=30&fontColor=F0F0F0&fontAlign=10&fontAlignY=71&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=About%20Me&fontSize=30&fontColor=F0F0F0&fontAlign=10&fontAlignY=71&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
